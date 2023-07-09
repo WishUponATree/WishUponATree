@@ -1,4 +1,4 @@
-  👋 Hey there! Call me Lileaf (she/her).
+  👋 Hey there! Welcome to my profile.
 
   📚 I'm a high school student using Github to create websites.
  
