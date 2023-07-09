@@ -1,4 +1,6 @@
-  👋 Hey there! I'm Lileaf (she/her).
+  👋 Hey there! 
+  
+  🪴 I'm Lileaf (she/her).
 
   📚 I'm a high school student using Github to create websites.
  
