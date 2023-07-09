@@ -1,6 +1,6 @@
   👋 Hey there! Welcome to my profile.
 
-  📚 I'm a high school student using Github to create websites.
+  📚 I'm a high school student using GitHub to create websites.
  
   💼 I hope to pursue a career in either UI/UX or cybersecurity.
   
