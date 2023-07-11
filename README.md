@@ -1,4 +1,4 @@
-  👋 Hey there! Welcome to my profile.
+  👋 Hi there! Welcome to my profile!
 
   📚 I'm a high school student using GitHub to create websites.
  
