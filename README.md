@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi! I'm Linda, she/her. I'm an undergraduate at Northwestern University studying Computer Science, Data Science, and Creative Writing.
 
 <!--
 **WishUponATree/WishUponATree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
